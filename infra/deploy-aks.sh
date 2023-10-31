@@ -12,7 +12,7 @@ fi
 : "${SSH_KEY}:?"
 
 AZURE_REGION="${AZURE_REGION:-eastus}"
-CLUSTER_NAME="${CLUSTER_NAME:-caaEncryptedImages}"
+CLUSTER_NAME="${CLUSTER_NAME:-caaTriton}"
 
 AZURE_SUBSCRIPTION_ID=$(az account show --query id --output tsv)
 AKS_WORKER_USER_NAME="azuser"
