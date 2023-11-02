@@ -98,3 +98,7 @@ When running any make target if you a script fails with cryptic error then to de
 ```bash
 export DEBUG=true
 ```
+
+## Recording
+
+[![Alt text](https://img.youtube.com/vi/8NtBJst10Lg/0.jpg)](https://www.youtube.com/watch?v=8NtBJst10Lg)
