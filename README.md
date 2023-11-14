@@ -1,6 +1,6 @@
 # Image Processing Model Inferencing in Confidential Containers - Rejekts NA 2023
 
-This repository contains the scripts and commands to deploy a confidential model for image processing in Confidential Containers.
+This repository contains the scripts and commands to deploy a confidential model for image processing in Confidential Containers. This demo is part of the Rejekts NA 2023 talk. The slides can be found [here](#slides). And this demo is recreated in this [video](#demo-recording).
 
 ## Deploy Infrastructure
 
@@ -99,6 +99,10 @@ When running any make target if you a script fails with cryptic error then to de
 export DEBUG=true
 ```
 
-## Recording
+## Demo Recording
 
 [![Alt text](https://img.youtube.com/vi/8NtBJst10Lg/0.jpg)](https://www.youtube.com/watch?v=8NtBJst10Lg)
+
+## Slides
+
+This demo was used in the Rejekts NA 2023 talk. The slides can be found [here](https://docs.google.com/presentation/d/169t32ntmp63f8De39CCTcir0hIDcSWrD/edit?usp=sharing&ouid=105345025263841109643&rtpof=true&sd=true).
